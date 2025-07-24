@@ -1,9 +1,9 @@
 {
-  "name": "🌸 Sublime Theme",
+  "name": "Theme components",
   "component": false,
   "license_url": "https://github.com/discourse/discourse-sublime-theme/blob/main/LICENSE",
   "about_url": "https://meta.discourse.org/t/discourse-sublime-theme/242048",
-  "authors": null,
+  "authors": "Javier Pozuelo",
   "theme_version": null,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
