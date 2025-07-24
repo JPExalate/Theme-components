@@ -119,7 +119,7 @@
 
   &__edit {
     margin-top: 1rem;
-    @include button($style: neutral);
+    //@include button($style: neutral);
     span {
       color: var(--neutral-30);
     }
