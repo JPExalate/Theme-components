@@ -1,0 +1,43 @@
+{
+  "name": "🌸 Sublime Theme",
+  "component": false,
+  "license_url": "https://github.com/discourse/discourse-sublime-theme/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/discourse-sublime-theme/242048",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {},
+  "color_schemes": {
+    "sublime-light": {
+      "primary": "000000",
+      "secondary": "ffffff",
+      "tertiary": "29a0b1",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "111111",
+      "highlight": "cfe0ea",
+      "selected": "d1f0ff",
+      "hover": "f2f2f2",
+      "danger": "c80001",
+      "success": "090",
+      "love": "fa6c8d"
+    },
+    "sublime-dark": {
+      "primary": "f2f2f2",
+      "secondary": "000000",
+      "tertiary": "29a0b1",
+      "quaternary": "e45735",
+      "header_background": "111111",
+      "header_primary": "dddddd",
+      "highlight": "cfe0ea",
+      "selected": "d1f0ff",
+      "hover": "f2f2f2",
+      "danger": "c80001",
+      "success": "090",
+      "love": "fa6c8d"
+    }
+  },
+  "modifiers": {},
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
