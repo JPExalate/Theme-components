@@ -114,7 +114,7 @@
     }
 
     color: var(--neutral-50);
-    @include body-small;
+    //@include body-small;
   }
 
   &__edit {
@@ -131,7 +131,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    @include body-small;
+    //@include body-small;
   }
 
   &__link {
