@@ -99,12 +99,12 @@
   }
 
   &__name-wrapper {
-    @include title-medium;
+    //@include title-medium; does not exist in discourse any more
   }
 
   &__name {
     display: inline-flex;
-    @include title-medium;
+    //@include title-medium; does not exist in discourse any more
   }
 
   &__username {
